@@ -1,0 +1,81 @@
+20 35
+
+Gulistan
+Paltan
+Kakrail
+Shahbagh
+Ramna
+Moghbazar
+Malibagh
+Rampura
+Badda
+Gulshan
+Banani
+Mohakhali
+Farmgate
+Karwan_Bazar
+Tejgaon
+Agargaon
+Mirpur
+Uttara
+Airport
+Savar
+
+0 1 2 0
+0 3 4 0
+1 2 2 0
+1 5 5 0
+2 3 2 0
+2 6 4 0
+3 4 1 0
+3 12 6 0
+4 13 3 0
+5 6 2 0
+5 7 5 0
+6 7 3 0
+7 8 2 0
+8 9 4 0
+9 10 2 0
+10 11 2 0
+11 12 4 0
+12 13 2 0
+13 14 3 0
+14 15 2 0
+15 16 4 0
+16 17 5 0
+17 18 3 0
+18 19 6 0
+9 13 5 0
+8 11 6 0
+10 14 4 0
+6 12 5 0
+4 5 3 0
+7 15 8 0
+2 8 7 0
+12 16 6 0
+13 17 7 0
+11 18 5 0
+5 10 9 0
+
+0 0
+1 1
+2 2
+3 3
+4 4
+5 0
+6 1
+7 2
+8 3
+9 4
+10 0
+11 1
+12 2
+13 3
+14 4
+15 0
+16 1
+17 2
+18 3
+19 4
+
+0 19
